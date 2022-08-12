@@ -1,7 +1,7 @@
 ## SUMÁRIO
 
 - [Habilidades](#habilidades)
-- [O que será desenvolvido](#o-que-será-desenvolvido)
+- [O que foi desenvolvido](#o-que-será-desenvolvido)
 
 ---
 
